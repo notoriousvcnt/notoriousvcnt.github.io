@@ -6,8 +6,29 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 May 2025 13:29:38 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 14:10:30 -0400</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyecto3</title>
+      <link>https://example.org/proyectos/proyecto3/</link>
+      <pubDate>Sat, 03 May 2025 14:10:30 -0400</pubDate>
+      <guid>https://example.org/proyectos/proyecto3/</guid>
+      <description>&lt;p&gt;acá va un proyecto.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Proyecto2</title>
+      <link>https://example.org/proyectos/proyecto2/</link>
+      <pubDate>Sat, 03 May 2025 14:10:26 -0400</pubDate>
+      <guid>https://example.org/proyectos/proyecto2/</guid>
+      <description>&lt;p&gt;acá va un proyecto.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Proyecto1</title>
+      <link>https://example.org/proyectos/proyecto1/</link>
+      <pubDate>Sat, 03 May 2025 14:10:22 -0400</pubDate>
+      <guid>https://example.org/proyectos/proyecto1/</guid>
+      <description>&lt;p&gt;acá va un proyecto.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Aboutme</title>
       <link>https://example.org/aboutme/</link>
