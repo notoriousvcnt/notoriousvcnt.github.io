@@ -7,4 +7,4 @@ theme = "ananke"
     [[menu.main]]
         name = "Proyectos"
         url = "/proyectos/"
-        weight = 1|
+        weight = 1
