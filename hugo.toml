@@ -8,3 +8,8 @@ theme = "ananke"
         name = "Proyectos"
         url = "/proyectos/"
         weight = 1
+
+    [[menu.main]]
+        name = "Portafolio Académico"
+        url = "/portafolio-academico/"
+        weight = 2
