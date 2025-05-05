@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/proyectos/proyecto1/proyecto1/</loc>
+    <loc>https://example.org/proyectos/proyecto1/</loc>
     <lastmod>2025-05-04T14:10:27-04:00</lastmod>
   </url><url>
     <loc>https://example.org/</loc>
@@ -11,25 +11,25 @@
     <loc>https://example.org/proyectos/</loc>
     <lastmod>2025-05-04T14:10:27-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/proyectos/proyecto2/proyecto2/</loc>
+    <loc>https://example.org/proyectos/proyecto2/</loc>
     <lastmod>2025-05-04T14:10:26-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/proyectos/proyecto3/proyecto3/</loc>
+    <loc>https://example.org/proyectos/proyecto3/</loc>
     <lastmod>2025-05-04T14:10:25-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/proyectos/proyecto4/proyecto4/</loc>
+    <loc>https://example.org/proyectos/proyecto4/</loc>
     <lastmod>2025-05-04T14:10:24-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/proyectos/proyecto5/proyecto5/</loc>
+    <loc>https://example.org/proyectos/proyecto5/</loc>
     <lastmod>2025-05-04T14:10:23-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/proyectos/proyecto6/proyecto6/</loc>
+    <loc>https://example.org/proyectos/proyecto6/</loc>
     <lastmod>2025-05-04T14:10:22-04:00</lastmod>
   </url><url>
     <loc>https://example.org/aboutme/</loc>
     <lastmod>2025-05-03T13:29:38-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/publicaciones-academicas/publicaciones-academicas/publicaciones-academicas/</loc>
+    <loc>https://example.org/publicaciones-academicas/publicaciones-academicas/</loc>
   </url><url>
     <loc>https://example.org/categories/</loc>
   </url><url>
