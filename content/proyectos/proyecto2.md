@@ -1,5 +1,5 @@
 +++
-date = '2025-05-03T14:10:26-04:00'
+date = date = '2025-05-04T14:10:22-08:00'
 draft = false
 title = '“Tecnologías para tocar lo invisible ” - Museo Arte Popular Americano (MAPA) (2024 - 2025)'
 +++
