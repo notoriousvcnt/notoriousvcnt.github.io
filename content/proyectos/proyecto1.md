@@ -1,5 +1,5 @@
 +++
-date = '2025-05-04T14:10:22-09:00'
+date = '2025-05-04T14:10:27-04:00'
 draft = false
 title = '“Dust: de un sentido temporal” (2025)'
 +++
