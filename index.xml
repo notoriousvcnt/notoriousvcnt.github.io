@@ -9,25 +9,46 @@
     <lastBuildDate>Sat, 03 May 2025 14:10:30 -0400</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Proyecto3</title>
+      <title>“Árboles Ciudadanos” (2022 - 2023)</title>
+      <link>https://example.org/proyectos/proyecto5/</link>
+      <pubDate>Sat, 03 May 2025 14:10:30 -0400</pubDate>
+      <guid>https://example.org/proyectos/proyecto5/</guid>
+      <description>&lt;h1 id=&#34;árboles-ciudadanos-composición-sonora-generativa-para-proyecto-de-relatos-sonoros-inspirados-en-distintas-especies-de-árboles-2022---2023&#34;&gt;“Árboles Ciudadanos”: Composición sonora generativa para proyecto de relatos sonoros inspirados en distintas especies de árboles. (2022 - 2023)&lt;/h1&gt;&#xA;&lt;p&gt;![Image 8]&lt;/p&gt;&#xA;&lt;p&gt;Descripción del trabajo realizado: En este proyecto desarrollé un sistema de composición sonora generativa inspirado en distintas especies arbóreas, como parte de un ejercicio de sonificación de estímulos capturados desde el entorno de cada árbol. Utilicé sensores conectados a Arduino para recolectar datos, los cuales fueron procesados con Python y MaxMSP para generar mensajes MIDI que activaban distintos módulos sonoros en VCV Rack. El resultado fue una obra semi-autónoma que traduce variables ambientales en eventos musicales, explorando la relación entre naturaleza y tecnología desde una perspectiva sonora.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“Micelio” (2024 - 2025)</title>
       <link>https://example.org/proyectos/proyecto3/</link>
       <pubDate>Sat, 03 May 2025 14:10:30 -0400</pubDate>
       <guid>https://example.org/proyectos/proyecto3/</guid>
-      <description>&lt;p&gt;acá va un proyecto.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;micelio--diseño-e-implementación-de-sistema-interactivo-con-luces-y-sonido-2024---2025&#34;&gt;“Micelio” : Diseño e implementación de sistema interactivo con luces y sonido. (2024 - 2025)&lt;/h1&gt;&#xA;&lt;p&gt;![Image 5]&lt;/p&gt;&#xA;&lt;p&gt;Descripción del trabajo realizado: En este proyecto participé como co-creador, donde con Francisca armamos una instalación interactiva en el Palacio Pereira. Mi trabajo principalmente fue diseñar la electrónica y la programación de la instalación, la cual incluyó audio, luces led direccionables y sensores de movimiento.&lt;/p&gt;&#xA;&lt;p&gt;Tecnologías: ESP32, Raspberry Pi, Arduino, programación en C++.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Proyecto2</title>
+      <title>“Módulo Voz y Comunicación”, MIM (2021)</title>
+      <link>https://example.org/proyectos/proyecto6/</link>
+      <pubDate>Sat, 03 May 2025 14:10:30 -0400</pubDate>
+      <guid>https://example.org/proyectos/proyecto6/</guid>
+      <description>&lt;h1 id=&#34;módulo-voz-y-comunicación-mim-programación-en-pure-data-2021&#34;&gt;“Módulo Voz y Comunicación”, MIM: Programación en Pure Data. (2021)&lt;/h1&gt;&#xA;&lt;p&gt;![Image 9]&lt;/p&gt;&#xA;&lt;p&gt;![Image 10]&lt;/p&gt;&#xA;&lt;p&gt;Descripción del trabajo realizado: En este trabajo se me encargó implementar una cadena de procesamiento de audio para un módulo del Museo Interactivo Mirador, utilizando Pure Data.&lt;/p&gt;&#xA;&lt;p&gt;Tecnologías: Pure Data.&lt;/p&gt;&#xA;&lt;p&gt;Video DEMO audio:  woven memory patch demo.mkv&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“Woven Memory”  (2023)</title>
+      <link>https://example.org/proyectos/proyecto4/</link>
+      <pubDate>Sat, 03 May 2025 14:10:30 -0400</pubDate>
+      <guid>https://example.org/proyectos/proyecto4/</guid>
+      <description>&lt;h1 id=&#34;woven-memory--implementación-de-procesamiento-sonoro-para-instalación-sonora-en-londres-38-utilizando-puredata-en-raspberry-pi-2023&#34;&gt;“Woven Memory” : Implementación de procesamiento sonoro para Instalación sonora en Londres 38, utilizando PureData en Raspberry Pi. (2023)&lt;/h1&gt;&#xA;&lt;p&gt;![Image 6]&lt;/p&gt;&#xA;&lt;p&gt;Descripción del trabajo realizado: En este trabajo se me encargó implementar una cadena de procesamiento de audio ya existente en otro lenguaje de programación (SuperCollider) en Pure Data, para poder ejecutarlo desde una Raspberry Pi.&lt;/p&gt;&#xA;&lt;p&gt;Tecnologías: Pure Data, Raspberry Pi.&lt;/p&gt;&#xA;&lt;p&gt;Video DEMO audio:  woven memory patch demo.mkv&lt;/p&gt;&#xA;&lt;p&gt;![Image 7]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“Tecnologías para tocar lo invisible ” - Museo Arte Popular Americano (MAPA) (2024 - 2025)</title>
       <link>https://example.org/proyectos/proyecto2/</link>
       <pubDate>Sat, 03 May 2025 14:10:26 -0400</pubDate>
       <guid>https://example.org/proyectos/proyecto2/</guid>
-      <description>&lt;p&gt;acá va un proyecto.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;tecnologías-para-tocar-lo-invisible----museo-arte-popular-americano-mapa-programación-de-instrumento-virtual-para-web-y-exposición-2024---2025&#34;&gt;“Tecnologías para tocar lo invisible ” - Museo Arte Popular Americano (MAPA): Programación de instrumento virtual para web y exposición. (2024 - 2025)&lt;/h1&gt;&#xA;&lt;p&gt;![Image 3]&lt;/p&gt;&#xA;&lt;p&gt;![Image 4]&lt;/p&gt;&#xA;&lt;p&gt;Descripción del trabajo realizado: En este proyecto estuve a cargo de la implementación de un sampler para silbatos en la plataforma RNBO de Max, la cual permite exportar un código a varias plataformas, entre ellas a Javascript, para implementar procesamiento de audio en tiempo real a páginas web. Además, para la exposición se utilizó un teléfono como dispositivo de captura de audio, movimiento y gestos. También estuve a cargo de la implementación de este dispositivo móvil, utilizando p5.js como plataforma principal, para luego enviar los datos a Max para gatillar reproducción de audio en 4 canales, y a TouchDesigner para visuales.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Proyecto1</title>
+      <title>“Dust: de un sentido temporal” (2025)</title>
       <link>https://example.org/proyectos/proyecto1/</link>
       <pubDate>Sat, 03 May 2025 14:10:22 -0400</pubDate>
       <guid>https://example.org/proyectos/proyecto1/</guid>
-      <description>&lt;p&gt;acá va un proyecto.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;dust-de-un-sentido-temporal--asesoría-para-mónica-bate-experimentación-diseño-e-implementación-de-software-para-inspirada-en-tubo-de-kundt-para-visualizar-ondas-estacionarias-de-sonido-en-un-tubo-de-acrílico-2025&#34;&gt;“Dust: de un sentido temporal”- Asesoría para Mónica Bate: Experimentación, diseño e implementación de software para inspirada en Tubo de Kundt, para visualizar ondas estacionarias de sonido en un tubo de acrílico. (2025)&lt;/h1&gt;&#xA;&lt;p&gt;![Image 1]&lt;/p&gt;&#xA;&lt;p&gt;Descripción del trabajo realizado:&#xA;En este trabajo estuve a cargo de la producción del software y cadena electroacústica para la obra “Dust: de un sentido temporal”, y también de la experimentación del material que iba a estar dentro del tubo. Esta obra está basada en el tubo de kundt, un experimento acústico para visualizar los nodos y anti nodos de una onda estacionaria.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aboutme</title>
@@ -35,6 +56,13 @@
       <pubDate>Sat, 03 May 2025 13:29:38 -0400</pubDate>
       <guid>https://example.org/aboutme/</guid>
       <description>&lt;p&gt;Hola!!!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://example.org/publicaciones-academicas/publicaciones-academicas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/publicaciones-academicas/publicaciones-academicas/</guid>
+      <description>&lt;h1 id=&#34;publicaciones-académicas&#34;&gt;Publicaciones académicas&lt;/h1&gt;&#xA;&lt;p&gt;Vicente E Espinoza, and Javier Jaimovich. 2024. Resurfacing an Enactive Approach for Instrument Design: The case of the Tangible Granular Device. Proceedings of the International Conference on New Interfaces for Musical Expression. DOI: 10.5281/zenodo.13904798&lt;/p&gt;&#xA;&lt;p&gt;Federico Schumacher, Vicente Espinoza, Francisca Mardones, Rodrigo Vergara, Alberto Aránguiz, Valentina Aguilera; Perceptual Recognition of Sound Trajectories in Space. Computer Music Journal 2021; 45 (1): 39–54. doi: &lt;a href=&#34;https://doi.org/10.1162/comj_a_00593&#34;&gt;https://doi.org/10.1162/comj_a_00593&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://example.org/proyectos/proyecto5/</loc>
     <lastmod>2025-05-03T14:10:30-04:00</lastmod>
   </url><url>
     <loc>https://example.org/proyectos/proyecto3/</loc>
+    <lastmod>2025-05-03T14:10:30-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/proyectos/proyecto6/</loc>
+    <lastmod>2025-05-03T14:10:30-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/proyectos/proyecto4/</loc>
+    <lastmod>2025-05-03T14:10:30-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/</loc>
     <lastmod>2025-05-03T14:10:30-04:00</lastmod>
   </url><url>
     <loc>https://example.org/proyectos/</loc>
@@ -20,7 +29,11 @@
     <loc>https://example.org/aboutme/</loc>
     <lastmod>2025-05-03T13:29:38-04:00</lastmod>
   </url><url>
+    <loc>https://example.org/publicaciones-academicas/publicaciones-academicas/</loc>
+  </url><url>
     <loc>https://example.org/categories/</loc>
+  </url><url>
+    <loc>https://example.org/publicaciones-academicas/</loc>
   </url><url>
     <loc>https://example.org/tags/</loc>
   </url>
