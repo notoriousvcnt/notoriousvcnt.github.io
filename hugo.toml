@@ -11,5 +11,5 @@ theme = "ananke"
 
     [[menu.main]]
         name = "Portafolio Académico"
-        url = "/portafolio-academico/"
+        url = "/publicaciones-academico/"
         weight = 2
