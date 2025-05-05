@@ -1,6 +1,15 @@
 +++
 date = '2025-05-03T14:10:30-04:00'
 draft = false
-title = 'Proyecto3'
+title = '“Micelio” (2024 - 2025)'
 +++
-acá va un proyecto.
+# “Micelio” : Diseño e implementación de sistema interactivo con luces y sonido. (2024 - 2025)
+
+![Image 5]
+
+Descripción del trabajo realizado: En este proyecto participé como co-creador, donde con Francisca armamos una instalación interactiva en el Palacio Pereira. Mi trabajo principalmente fue diseñar la electrónica y la programación de la instalación, la cual incluyó audio, luces led direccionables y sensores de movimiento.
+
+Tecnologías: ESP32, Raspberry Pi, Arduino, programación en C++.
+
+Video: MICELIO.mp4
+
