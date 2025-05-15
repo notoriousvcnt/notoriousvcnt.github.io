@@ -6,8 +6,15 @@
     <description>Recent content in Bienvenido on Portafolio Vicente Espinoza</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 May 2025 14:10:27 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 13:14:58 -0400</lastBuildDate>
     <atom:link href="https://notoriousvcnt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://notoriousvcnt.github.io/proyectos/test/</link>
+      <pubDate>Thu, 15 May 2025 13:14:58 -0400</pubDate>
+      <guid>https://notoriousvcnt.github.io/proyectos/test/</guid>
+      <description>Desc Text.</description>
+    </item>
     <item>
       <title>“Dust: de un sentido temporal” -  Mónica Bate (2025)</title>
       <link>https://notoriousvcnt.github.io/proyectos/dust/</link>
@@ -77,15 +84,6 @@ En este trabajo estuve a cargo de la producción del software y cadena electroac
       <pubDate>Sat, 03 May 2025 13:29:38 -0400</pubDate>
       <guid>https://notoriousvcnt.github.io/aboutme/</guid>
       <description>&lt;p&gt;Hola!!!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://notoriousvcnt.github.io/publicaciones-academicas/publicaciones-academicas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://notoriousvcnt.github.io/publicaciones-academicas/publicaciones-academicas/</guid>
-      <description>&lt;h1 id=&#34;publicaciones-académicas&#34;&gt;Publicaciones académicas&lt;/h1&gt;
-&lt;p&gt;Vicente E Espinoza, and Javier Jaimovich. 2024. Resurfacing an Enactive Approach for Instrument Design: The case of the Tangible Granular Device. Proceedings of the International Conference on New Interfaces for Musical Expression. DOI: 10.5281/zenodo.13904798&lt;/p&gt;
-&lt;p&gt;Federico Schumacher, Vicente Espinoza, Francisca Mardones, Rodrigo Vergara, Alberto Aránguiz, Valentina Aguilera; Perceptual Recognition of Sound Trajectories in Space. Computer Music Journal 2021; 45 (1): 39–54. doi: &lt;a href=&#34;https://doi.org/10.1162/comj_a_00593&#34;&gt;https://doi.org/10.1162/comj_a_00593&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
