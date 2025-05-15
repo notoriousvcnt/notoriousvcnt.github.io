@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publicaciones-Academicas on Portafolio Vicente Espinoza</title>
-    <link>https://notoriousvcnt.github.io/publicaciones-academicas/</link>
-    <description>Recent content in Publicaciones-Academicas on Portafolio Vicente Espinoza</description>
-    <image>
-      <title>Portafolio Vicente Espinoza</title>
-      <url>https://notoriousvcnt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://notoriousvcnt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.147.3</generator>
+    <title>Publicaciones-Academicas on </title>
+    <link>/publicaciones-academicas/</link>
+    <description>Recent content in Publicaciones-Academicas on </description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://notoriousvcnt.github.io/publicaciones-academicas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/publicaciones-academicas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://notoriousvcnt.github.io/publicaciones-academicas/publicaciones-academicas/</link>
+      <link>/publicaciones-academicas/publicaciones-academicas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://notoriousvcnt.github.io/publicaciones-academicas/publicaciones-academicas/</guid>
-      <description>&lt;h1 id=&#34;publicaciones-académicas&#34;&gt;Publicaciones académicas&lt;/h1&gt;
-&lt;p&gt;Vicente E Espinoza, and Javier Jaimovich. 2024. Resurfacing an Enactive Approach for Instrument Design: The case of the Tangible Granular Device. Proceedings of the International Conference on New Interfaces for Musical Expression. DOI: 10.5281/zenodo.13904798&lt;/p&gt;
-&lt;p&gt;Federico Schumacher, Vicente Espinoza, Francisca Mardones, Rodrigo Vergara, Alberto Aránguiz, Valentina Aguilera; Perceptual Recognition of Sound Trajectories in Space. Computer Music Journal 2021; 45 (1): 39–54. doi: &lt;a href=&#34;https://doi.org/10.1162/comj_a_00593&#34;&gt;https://doi.org/10.1162/comj_a_00593&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>/publicaciones-academicas/publicaciones-academicas/</guid>
+      <description>&lt;h1 id=&#34;publicaciones-académicas&#34;&gt;Publicaciones académicas&lt;/h1&gt;&#xA;&lt;p&gt;Vicente E Espinoza, and Javier Jaimovich. 2024. Resurfacing an Enactive Approach for Instrument Design: The case of the Tangible Granular Device. Proceedings of the International Conference on New Interfaces for Musical Expression. DOI: 10.5281/zenodo.13904798&lt;/p&gt;&#xA;&lt;p&gt;Federico Schumacher, Vicente Espinoza, Francisca Mardones, Rodrigo Vergara, Alberto Aránguiz, Valentina Aguilera; Perceptual Recognition of Sound Trajectories in Space. Computer Music Journal 2021; 45 (1): 39–54. doi: &lt;a href=&#34;https://doi.org/10.1162/comj_a_00593&#34;&gt;https://doi.org/10.1162/comj_a_00593&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
