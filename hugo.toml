@@ -1,6 +1,7 @@
 baseURL = "https://notoriousvcnt.github.io/"
 title = "Portafolio Vicente Espinoza"
 theme = "PaperMod"
+languageCode = 'en-us'
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
@@ -141,6 +142,6 @@ SiteVerificationTag = "XYZabc"
 #[markup.highlight]
 #noClasses = false
 #baseURL = 'https://example.org/'
-#languageCode = 'en-us'
+
 #title = 'My New Hugo Site'
 #theme = "PaperMod"
