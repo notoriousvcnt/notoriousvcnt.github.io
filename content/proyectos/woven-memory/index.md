@@ -3,7 +3,7 @@ date = '2025-05-04T14:10:24-04:00'
 draft = false
 title = '“Woven Memory”  (2023)'
 +++
-# “Woven Memory” : Implementación de procesamiento sonoro para Instalación sonora en Londres 38, utilizando PureData en Raspberry Pi. (2023)
+# “Woven Memory” - Soledad Muñoz : Implementación de procesamiento sonoro para Instalación sonora en Londres 38, utilizando PureData en Raspberry Pi. (2023)
 
 ![Image 6]
 

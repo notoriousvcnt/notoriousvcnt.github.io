@@ -1,7 +1,7 @@
 +++
 date = '2025-05-04T14:10:22-04:00'
 draft = false
-title = '“Módulo Voz y Comunicación”, MIM (2021)'
+title = '“Módulo Voz y Comunicación” - MIM (2021)'
 +++
 # “Módulo Voz y Comunicación”, MIM: Programación en Pure Data. (2021)
 

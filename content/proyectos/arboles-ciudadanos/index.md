@@ -1,7 +1,7 @@
 +++
 date = '2025-05-04T14:10:23-04:00'
 draft = false
-title = '“Árboles Ciudadanos” (2022 - 2023)'
+title = '“Árboles Ciudadanos” - Organismo Teatro (2022 - 2023)'
 +++
 
 # “Árboles Ciudadanos”: Composición sonora generativa para proyecto de relatos sonoros inspirados en distintas especies de árboles. (2022 - 2023)
