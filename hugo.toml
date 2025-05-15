@@ -17,7 +17,7 @@ weight = 10
 [[menu.main]]
 identifier = "Publicaciones Académicas"
 name = "Publicaciones Académicas"
-url = "/publicaciones-academicas/"
+url = "/publicaciones-academicas.md"
 weight = 20
 
 [markup.highlight]
