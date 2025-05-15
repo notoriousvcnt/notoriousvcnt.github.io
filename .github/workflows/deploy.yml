@@ -18,7 +18,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.146.0' # Instala la versión de Hugo
+          hugo-version: 'latest' # Instala la versión de Hugo
           extended: true # Instala la versión extendida de Hugo (necesaria para algunos temas)
           #cache: true # Habilita el caché para acelerar las futuras
 
