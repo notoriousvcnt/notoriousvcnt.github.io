@@ -17,7 +17,7 @@ weight = 10
 [[menu.main]]
 identifier = "Publicaciones Académicas"
 name = "Publicaciones Académicas"
-url = "/publicaciones-academicas.md"
+url = "publicaciones-academicas.md"
 weight = 20
 
 [markup.highlight]
@@ -38,7 +38,7 @@ imageHeight = 240
 
   [[params.profileMode.buttons]]
   name = "Publicaciones Académicas"
-  url = "/publicaciones-academicas.md/"
+  url = "publicaciones-academicas.md"
 
   [[params.socialIcons]]
   name = "Github"
