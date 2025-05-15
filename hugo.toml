@@ -3,6 +3,15 @@
 #title = 'My New Hugo Site'
 #theme = "PaperMod"
 
+baseURL = "https://notoriousvcnt.github.io/"
+title = "Portafolio Vicente Espinoza"
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+pygmentsUseClasses = true
+
 [menu]
     [[menu.main]]
         name = "Proyectos"
@@ -13,15 +22,6 @@
         name = "Portafolio Académico"
         url = "/publicaciones-academico/"
         weight = 2
-
-baseURL = "https://notoriousvcnt.github.io/"
-title = "Portafolio Vicente Espinoza"
-theme = "PaperMod"
-enableRobotsTXT = true
-buildDrafts = false
-buildFuture = false
-buildExpired = false
-pygmentsUseClasses = true
 
 [minify]
 disableXML = true
@@ -89,20 +89,12 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Hi there 👋"
-  Content = "Welcome to my blog"
-
-  [[params.socialIcons]]
-  name = "x"
-  url = "https://x.com/"
-
-  [[params.socialIcons]]
-  name = "stackoverflow"
-  url = "https://stackoverflow.com"
+  Title = "Portafolio Vicente Espinoza"
+  Content = ""
 
   [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/"
+  url = "https://github.com/notoriousvcnt"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
