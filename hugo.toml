@@ -38,7 +38,7 @@ imageHeight = 240
 
   [[params.profileMode.buttons]]
   name = "Publicaciones Académicas"
-  url = "/publicaciones-academicas.md"
+  url = "/publicaciones-academicas.md/"
 
   [[params.socialIcons]]
   name = "Github"

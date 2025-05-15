@@ -1,7 +1,7 @@
 +++
 date = '2025-05-15T13:19:59-04:00'
-draft = true
-title = 'Publicaciones Academicas'
+draft = false
+title = 'Publicaciones Académicas'
 +++
 Vicente E Espinoza, and Javier Jaimovich. 2024. Resurfacing an Enactive Approach for Instrument Design: The case of the Tangible Granular Device. Proceedings of the International Conference on New Interfaces for Musical Expression. DOI: 10.5281/zenodo.13904798
 
