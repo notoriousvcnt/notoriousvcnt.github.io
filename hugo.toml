@@ -27,7 +27,7 @@ noClasses = false
 enabled = true
 title = "Vicente Espinoza"
 subtitle = "Portafolio de Colaboraciones y Publicaciones Académicas"
-imageUrl = "images/avatar_photo.jpg/"
+imageUrl = "images/avatar_photo.jpg"
 imageWidth = 240
 imageHeight = 240
 
