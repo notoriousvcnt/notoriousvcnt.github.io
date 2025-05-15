@@ -39,15 +39,16 @@ En este trabajo estuve a cargo de la producción del software y cadena electroac
 &lt;p&gt;Tecnologías: ESP32, Raspberry Pi, Arduino, programación en C++.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>“Woven Memory”  (2023)</title>
+      <title>“Woven Memory” - Soledad Muñoz (2023)</title>
       <link>https://notoriousvcnt.github.io/proyectos/woven-memory/</link>
       <pubDate>Sun, 04 May 2025 14:10:24 -0400</pubDate>
       <guid>https://notoriousvcnt.github.io/proyectos/woven-memory/</guid>
-      <description>&lt;h1 id=&#34;woven-memory---soledad-muñoz--implementación-de-procesamiento-sonoro-para-instalación-sonora-en-londres-38-utilizando-puredata-en-raspberry-pi-2023&#34;&gt;“Woven Memory” - Soledad Muñoz : Implementación de procesamiento sonoro para Instalación sonora en Londres 38, utilizando PureData en Raspberry Pi. (2023)&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;woven-memory--implementación-de-procesamiento-sonoro-para-instalación-sonora-en-londres-38-utilizando-puredata-en-raspberry-pi-2023&#34;&gt;“Woven Memory” : Implementación de procesamiento sonoro para Instalación sonora en Londres 38, utilizando PureData en Raspberry Pi. (2023)&lt;/h1&gt;
 &lt;p&gt;![Image 6]&lt;/p&gt;
 &lt;p&gt;Descripción del trabajo realizado: En este trabajo se me encargó implementar una cadena de procesamiento de audio ya existente en otro lenguaje de programación (SuperCollider) en Pure Data, para poder ejecutarlo desde una Raspberry Pi.&lt;/p&gt;
 &lt;p&gt;Tecnologías: Pure Data, Raspberry Pi.&lt;/p&gt;
-&lt;p&gt;Video DEMO audio:  woven memory patch demo.mkv&lt;/p&gt;</description>
+&lt;p&gt;Video DEMO audio:  woven memory patch demo.mkv&lt;/p&gt;
+&lt;p&gt;![Image 7]&lt;/p&gt;</description>
     </item>
     <item>
       <title>“Árboles Ciudadanos” - Organismo Teatro (2022 - 2023)</title>
