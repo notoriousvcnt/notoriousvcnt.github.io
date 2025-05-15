@@ -23,6 +23,29 @@ weight = 20
 [markup.highlight]
 noClasses = false
 
+[params.profileMode]
+enabled = true
+title = "Vicente Espinoza"
+subtitle = "Portafolio de Colaboraciones y Publicaciones Académicas"
+imageUrl = "/assets/avatar_photo.jpg/"
+imageWidth = 120
+imageHeight = 120
+
+
+  [[params.profileMode.buttons]]
+  name = "Colaboraciones"
+  url = "/proyectos/"
+
+  [[params.profileMode.buttons]]
+  name = "Publicaciones Académicas"
+  url = "/publicaciones-academicas.md"
+
+  [[params.socialIcons]]
+  name = "Github"
+  url = "https://github.com/notoriousvcnt"
+
+
+
 # [menu]
 #     [[menu.main]]
 #         name = "Proyectos"

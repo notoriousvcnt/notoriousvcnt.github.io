@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/aboutme/</loc>
-    <lastmod>2025-05-03T13:29:38-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-15T13:19:59-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proyectos/</loc>
+    <lastmod>2025-05-15T13:14:58-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proyectos/test/</loc>
+    <lastmod>2025-05-15T13:14:58-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proyectos/dust/</loc>
+    <lastmod>2025-05-04T14:10:27-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proyectos/mapa-silbatos/</loc>
+    <lastmod>2025-05-04T14:10:26-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proyectos/micelio/</loc>
+    <lastmod>2025-05-04T14:10:25-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proyectos/woven-memory/</loc>
+    <lastmod>2025-05-04T14:10:24-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proyectos/arboles-ciudadanos/</loc>
+    <lastmod>2025-05-04T14:10:23-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proyectos/mim-modulo-voz-comunicacion/</loc>
+    <lastmod>2025-05-04T14:10:22-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/aboutme/</loc>
     <lastmod>2025-05-03T13:29:38-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
