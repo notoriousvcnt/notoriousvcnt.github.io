@@ -1,8 +1,3 @@
-#baseURL = 'https://example.org/'
-#languageCode = 'en-us'
-#title = 'My New Hugo Site'
-#theme = "PaperMod"
-
 baseURL = "https://notoriousvcnt.github.io/"
 title = "Portafolio Vicente Espinoza"
 theme = "PaperMod"
@@ -145,3 +140,7 @@ SiteVerificationTag = "XYZabc"
 
 #[markup.highlight]
 #noClasses = false
+#baseURL = 'https://example.org/'
+#languageCode = 'en-us'
+#title = 'My New Hugo Site'
+#theme = "PaperMod"
